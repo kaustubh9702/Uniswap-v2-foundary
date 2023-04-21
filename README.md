@@ -6,6 +6,11 @@
 
 ## Getting Started
 
+
+## Coverage Report
+
+![Capture](https://user-images.githubusercontent.com/73957962/233511080-8e65249c-aef4-45c5-a01a-f4529db154f7.PNG)
+
 Click "Use this template" on [GitHub](https://github.com/foundry-rs/forge-template) to create a new repository with this repo as the initial state.
 
 Or, if your repo already exists, run:
